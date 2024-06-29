@@ -17,10 +17,11 @@ The Fitness Tracker project aims to provide a practical learning experience for 
 - **Time Series Plotting:** Create functions to visualize time series data for better understanding of sensor readings during exercises.
 - **Exercise Visualization:** Plot sensor data for individual exercises to identify patterns and trends.
 
-
+**Bench:**
 ![Bench Exercise Data Visualization](https://github.com/jainam0037/Fitness-Tracker/blob/main/reports/figures/Bench%20(E).png)
 
-
+**Bench:**
+![Deadlift Exercise Data Visualization](https://github.com/jainam0037/Fitness-Tracker/blob/main/reports/figures/Dead%20(C).png)
 
 ### Outlier Detection
 - **Noise Identification:** Implement methods to detect and handle noisy data points that could affect model performance.
