@@ -17,7 +17,7 @@ The Fitness Tracker project aims to provide a practical learning experience for 
 - **Time Series Plotting:** Create functions to visualize time series data for better understanding of sensor readings during exercises.
 - **Exercise Visualization:** Plot sensor data for individual exercises to identify patterns and trends.
 
-![Bench Screenshot]([https://github.com/jainam0037/Airbnb-Dashboard/blob/main/image.png?](https://github.com/jainam0037/Fitness-Tracker/blob/main/reports/figures/Bench%20(E).png)
+![Bench Screenshot]([https://github.com/jainam0037/Airbnb-Dashboard/blob/main/image.png?](https://github.com/jainam0037/Fitness-Tracker/blob/main/reports/figures/Bench%20(E).png?raw=true)
 
 
 
