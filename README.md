@@ -20,8 +20,14 @@ The Fitness Tracker project aims to provide a practical learning experience for 
 **Bench:**
 ![Bench Exercise Data Visualization](https://github.com/jainam0037/Fitness-Tracker/blob/main/reports/figures/Bench%20(E).png)
 
-**Bench:**
+**Deadlift:**
 ![Deadlift Exercise Data Visualization](https://github.com/jainam0037/Fitness-Tracker/blob/main/reports/figures/Dead%20(C).png)
+
+**Over Head Press:**
+![OHP Exercise Data Visualization](https://github.com/jainam0037/Fitness-Tracker/blob/main/reports/figures/Ohp%20(A).png)
+
+**Resting Comparison of Accelerometer and Gyrometer:**
+![OHP Exercise Data Visualization](https://github.com/jainam0037/Fitness-Tracker/blob/main/reports/figures/Rest%20(A).png)
 
 ### Outlier Detection
 - **Noise Identification:** Implement methods to detect and handle noisy data points that could affect model performance.
