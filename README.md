@@ -11,10 +11,15 @@ The Fitness Tracker project aims to provide a practical learning experience for 
 ### Data Processing
 - **Reading and Cleaning:** Load raw sensor data, clean it by handling missing values and noise.
 - **Processing:** Process the data to extract relevant segments corresponding to different exercises.
+- 
 
 ### Data Visualization
 - **Time Series Plotting:** Create functions to visualize time series data for better understanding of sensor readings during exercises.
 - **Exercise Visualization:** Plot sensor data for individual exercises to identify patterns and trends.
+
+![Bench Screenshot]([https://github.com/jainam0037/Airbnb-Dashboard/blob/main/image.png?](https://github.com/jainam0037/Fitness-Tracker/blob/main/reports/figures/Bench%20(E).png)?raw=true)
+
+
 
 ### Outlier Detection
 - **Noise Identification:** Implement methods to detect and handle noisy data points that could affect model performance.
